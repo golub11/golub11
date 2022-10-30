@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nikola,
 - 👀 I’m interested in Product Managment in Data Science projects
 - 🌱 I’m currently learning about Data Visualisation and decision making throughout datapiplines
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: nikola.golubovic@hotmail.com
 
 <!---
